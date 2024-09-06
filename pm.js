@@ -4,7 +4,7 @@
  var client_id  = '0e07cf3a-36c6-44d3-a6e8-e1cc84954de0';
  var website_id = '7b26aeee-8ac7-4b9c-96e8-031821897745';
  var public_key = 'BIUHKcn-eMTzrdlnmLzS9SVtfHT21RKA2zKDaWc-1acZfSGtDnJOCCFvNjyhjzV0u30hBY_64LI2WYMUaP2W4u8';
- var path_sw    = 'sw_pm.js';
+ var path_sw    = '/hoi-tests/sw_pm.js';
  var api_url    = 'https://subs.pushmine.com';
  var seg_id     = (typeof seg_id != "undefined") ? seg_id : 0;
 
